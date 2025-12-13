@@ -1,5 +1,7 @@
 **Analítica de datos industriales**
+
 David Alexander Calderon Arregui
+
 https://rpubs.com/dacalderon07/1380210
 
 El repositorio contiene la estructura completa del trabajo final titulado “Análisis de la adopción de Tecnologías 4.0 en la industria de la construcción”, desarrollado en el marco del curso de Analítica de Datos Industriales. La información se encuentra organizada de manera lógica y coherente, facilitando tanto la reproducibilidad del análisis como la comprensión de los resultados.
