@@ -1,6 +1,10 @@
 **Analítica de datos industriales**
 
+*Análisis de la adopción de Tecnologías 4.0 en la industria de la construcción*
+
 David Alexander Calderon Arregui
+
+dacalderon07@gmail.com
 
 https://rpubs.com/dacalderon07/1380210
 
